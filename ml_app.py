@@ -8,7 +8,7 @@ from sklearn.datasets import load_iris
 from sklearn.ensemble import RandomForestClassifier
 
 
-st.title("Iris Flower Species Predictor")
+st.title("Tola's Iris Flower Species Predictor")
 st.subheader("RandomForest classifier using the classic Iris dataset")
 
 # 2. Train a RandomForest Machine Learning model for the given dataset.
